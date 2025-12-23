@@ -5,10 +5,10 @@ Architecture: iphoneos-arm
 Description: iFile is a file manager originally made by heinelt. This copy is original and redistributed by PyramidsoftwaresIT S.p.a
 Filename: debs/eu.heinelt.ifile_2.2.0-1_iphoneos-arm.deb
 Size: 9751882
-MD5sum: 88766F339CC7B150E356331E4594DB7B
+MD5sum: 88766f339cc7b150e356331e4594db7b
 
-Package: com.pyramidsoftwares.
-Name: Nome del Tweak
+Package: com.pyramidsoftwares.test
+Name: test (DO NOT INSTALL!!)
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Il mio primo tweak

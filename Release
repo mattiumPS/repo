@@ -1,7 +1,7 @@
-Origin: Pyramid Softwares
-Label: Pyramid softwares
+Origin: Pyramid Softwares for Sileo
+Label: Pyramid softwares for Sileo
 Suite: stable
-Version: 0.1
+Version: 1.0-offical
 Codename: iOS-Legacy
 Architectures: iphoneos-arm
 Components: main
